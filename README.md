@@ -6,13 +6,13 @@
 
 <h2 align="left">🛠 My Tech Stack</h2>
 
-![Linux](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
+![Linux](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/d554b27d-3e5f-4e88-bedd-6b2ee41cd0cf)
 ![Ubuntu](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
 ![Nginx](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
 ![Docker](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
-![Golang](https://user-images.githubusercontent.com/21006294/123513609-bed4fd00-d696-11eb-8a0f-16d220972d4f.png)
+![Go](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/762d1e33-0910-490f-88c9-316d9899228a)
 ![PostgreSql](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
-![GitHub](https://user-images.githubusercontent.com/21006294/123515259-4d4d7c80-d69f-11eb-83db-828b5ca24a18.png)
+![Git](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/d8eebf29-655c-43c3-9a44-b0181182765e)
 
 <h2 align="left">🤝🏻Contacts</h2>
 
