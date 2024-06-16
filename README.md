@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/5c356959-68ed-41d8-b35e-edf68117ad7f" style="max-width:100%;">
+<img src="https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/issues/1#issuecomment-2171751363" style="max-width:100%;">
 </p>
 
 <h1 align="center">Hi ;-)</h1>
 
 <h2 align="left">🛠 My Tech Stack</h2>
 
-![Linux](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/d554b27d-3e5f-4e88-bedd-6b2ee41cd0cf)
+![Linux](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/5c356959-68ed-41d8-b35e-edf68117ad7f)
 ![Ubuntu](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
 ![Nginx](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
 ![Docker](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
