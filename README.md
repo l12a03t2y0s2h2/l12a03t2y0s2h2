@@ -6,13 +6,13 @@
 
 <h2 align="left">🛠 My Tech Stack</h2>
 
-![Linux](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/5c356959-68ed-41d8-b35e-edf68117ad7f)
-![Ubuntu](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
-![Nginx](https://user-images.githubusercontent.com/21006294/128007021-d1eeb0ae-2448-4236-b683-7c2477b85c5b.png)
-![Docker](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
-![Go](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/762d1e33-0910-490f-88c9-316d9899228a)
-![PostgreSql](https://user-images.githubusercontent.com/21006294/123513616-c0062a00-d696-11eb-9f82-400564b40d0d.png)
-![Git](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/d8eebf29-655c-43c3-9a44-b0181182765e)
+![Linux](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/1cf858cb-1532-4b47-8e18-1d8468112fc8)
+![Ubuntu](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/5c1bcde5-9990-425c-8fca-3bb3afdb56f0)
+![Nginx](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/a753755e-cf29-454a-be0c-4b8b6dbb91fd)
+![Docker](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/5172e37b-93fb-4e67-9551-051ed5f09d3c)
+![Go](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/b5cd9a5f-102d-46de-b56f-aa47950b681b)
+![PostgreSql](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/eeeebb4f-f246-43dc-a561-31a4bda02c7c)
+![Git](https://github.com/l12a03t2y0s2h2/l12a03t2y0s2h2/assets/98264979/ae77cfb2-2a10-4117-9016-00f6763b1063)
 
 <h2 align="left">🤝🏻Contacts</h2>
 
